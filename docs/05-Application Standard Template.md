@@ -1,4 +1,4 @@
-# Template Padrão da Aplicação
+# Application Standard Template
 
 O layout padrão do site foi construído com as linguagens de marcação HTML e CSS, e a linguagem de programação JavaScript foi utilizada para a construção da funcionalidade de cadastro e login.
 
